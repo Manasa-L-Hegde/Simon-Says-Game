@@ -12,4 +12,4 @@ If you make a mistake, the game ends and shows your score.
 - JavaScript (DOM Manipulation)
 
 ## 🚀 Live Demo
-[Play Now](https://Manasa-L-Hegde.github.io/simon-says-game/)
+[Play Now](https://Manasa-L-Hegde.github.io/Simon-Says-Game/)
