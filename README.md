@@ -1,7 +1,7 @@
 # 🧠 Simon Says Game
 A simple memory game built with **HTML, CSS, and JavaScript**.
 
-## 📸 Current Output
+## 📸 Output
 ![Simon Says Game output](Simon-Says-Game.jpg)
 
 ## 🎮 How to Play
