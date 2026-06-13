@@ -19,3 +19,4 @@ If you make a mistake, the game ends and shows your score.
 [Play Now](https://Manasa-L-Hegde.github.io/Simon-Says-Game/)
 
 Testing Pull Shark Badge
+Testing feature2
